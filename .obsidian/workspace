@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "0c5f992e6851ff30",
+    "type": "split",
+    "children": [
+      {
+        "id": "92860cd96e8fe05c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dashi maki tamago.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7081023d965a379",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf8f1223a5f00eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab85a2ad5bc6e18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b195f262db46d7c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1373c58eee97ef68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84f198bf0a986a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1445a75e48edb94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca74a2bbed1e300d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dashi maki tamago.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "92860cd96e8fe05c",
+  "lastOpenFiles": [
+    "dashi maki tamago.md",
+    "Japanese.md",
+    "Miso Soup.md",
+    "Dashi.md",
+    "Mentsuyu.md",
+    "Pandemic cookbook.md",
+    "Thai.md",
+    "thai stir fry.md",
+    "\"Chinese\".md",
+    "Papaya salad.md"
+  ]
+}
