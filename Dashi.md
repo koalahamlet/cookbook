@@ -1,17 +1,18 @@
 # Dashi
 
+## Ingredients 
 10 g of kombu
-
 20 g of bonito flakes
-
 1 Liter of water
 
-  
-place kombu in room temp water for 1 hour..
+## Equipment
+
+
+Place kombu in room temp water for 1 hour..
 
 Remove the kelp afterwords and reserve.
 
-turn up heat under kelp water and bring to a boil.
+Turn up heat under kelp water and bring to a boil.
 
 After boiling, turn off the heat completely and add the bonito flakes.
 

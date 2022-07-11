@@ -14,10 +14,10 @@
 
 [[Papaya salad]]*
 
-[[Larb]]
+[[Larb]] **
 
-Thai eggplant *
+Thai eggplant **
 
-[[thai stir fry]] 
+[[thai stir fry]]  **
 
-[Thai Peanut sauce](obsidian://open?vault=Obsidian%20Vault&file=Thai%20peanut%20sauce)
+[Thai Peanut sauce](obsidian://open?vault=Obsidian%20Vault&file=Thai%20peanut%20sauce) **

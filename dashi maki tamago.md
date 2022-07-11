@@ -1,6 +1,6 @@
 # Dashi Maki Tamago
 
-This dish is *all* about technique, as you'll note the scant ingredient list. You'll also notice that other videos will have you individually add mirin, soy, and sugar to the mix. However, with a good mentsuyu you are able to sidestep all the individual tiny measurements.
+This dish is *all* about technique, as you'll note the scant ingredient list. You'll also notice that other recipes will have you individually add mirin, soy, and sugar to the mix. However, with a good mentsuyu you are able to sidestep all the individual tiny measurements.
 
 ### Equipment:
 * any nonstick pan, but preferably a square tamago pan
@@ -20,8 +20,6 @@ This dish is *all* about technique, as you'll note the scant ingredient list. Yo
 Mix the eggs together well without adding too many bubbles. Then strain through a medium mesh specifically to remove the large whitish clear clumps that cannot be beaten into incorporation.
 
 Once strained, add in the dashi, mentsuyu, and etc. Beat well to incorporate everything evently.
-
-  
 
 This next part should be learned from [visual demonstration](https://youtu.be/x4BDc6GPlTk?t=134) if it's your first time as it's the key to getting this dish right.
 

@@ -1,8 +1,12 @@
 # Roasted Peanuts
 
-Ingredients:
+## Ingredients
 * Peanuts!
 
+## Equipment
+* An oven
+* a baking sheet
+-----------------------------------
 
 Preheat your oven to 350 F. 
 
