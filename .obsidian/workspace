@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8fb7cfd0db92b9b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Soba Salad.md",
+            "file": "Pandemic cookbook.md",
             "mode": "source",
             "source": false
           }
@@ -73,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255
   },
   "right": {
     "id": "84f198bf0a986a69",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soba Salad.md",
+                "file": "Pandemic cookbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fb7cfd0db92b9b9",
+  "active": "82399b542e4161a2",
   "lastOpenFiles": [
-    "Soba Salad.md",
-    "Japanese.md",
-    "Thai peanut sauce.md",
-    "Larb.md",
-    "Toasted Rice Powder.md",
+    "Pandemic cookbook.md",
+    "Shakshukah.md",
     "Korean.md",
     "\"Chinese\".md",
-    "dashi maki tamago.md",
-    "Mentsuyu.md",
-    "thai stir fry.md"
+    "Japanese.md",
+    "Thai.md",
+    "Oyakodon.md",
+    "Thai peanut sauce.md",
+    "Korean Spicy Pork.md",
+    "Soy Sauce Pickles.md"
   ]
 }
