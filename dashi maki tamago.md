@@ -15,7 +15,7 @@ This dish is *all* about technique, as you'll note the scant ingredient list. Yo
 * some amount of sugar?
 * optionally add any pickles, se aweed salad, or really whatever you feel like adding, as long as it's relatively thin
 
-  
+  tl;dr add mentsuyu to eggs and then make an omelette. 
 
 Mix the eggs together well without adding too many bubbles. Then strain through a medium mesh specifically to remove the large whitish clear clumps that cannot be beaten into incorporation.
 

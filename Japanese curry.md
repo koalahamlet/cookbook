@@ -9,7 +9,7 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 * 3 large carrots
 * 1/2 box of japanese curry mix
 * optional protein(e.g. chicken, beef, pork, tofu)
-* 5 cups of chicken or veggie stock
+* 5 cups of chicken or veggie [[Broth]]
 * 1 Tbsp of cornstarch.
 
 ### optional
@@ -22,7 +22,7 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 
 ## Equipment
 
-A large pot
+* A large pot
 
 
 cut up your onions, carrots, potatoes, apples, and etc.

@@ -1,12 +1,12 @@
 # Dashi
 
 ## Ingredients 
-10 g of kombu
-20 g of bonito flakes
-1 Liter of water
+* 10 g of kombu
+* 20 g of bonito flakes
+* 1 Liter of water
 
 ## Equipment
-
+* A big pot
 
 Place kombu in room temp water for 1 hour..
 
