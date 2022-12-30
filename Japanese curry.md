@@ -24,7 +24,7 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 
 * A large pot
 
-
+### Directions:
 cut up your onions, carrots, potatoes, apples, and etc.
 
 Brown the onions with some oil/butter and really take the time to brown some of them, this will give you a better overall flavor later. Next microwave your carrots and potatoes until they's lightly soft on the outside without being mushy(3-5 minutes depending on microwave power). Finally throw these in with your onions, soup stock,  apples, and curry cubes. Heat on medium high while stirring to incorporate the curry cubes.

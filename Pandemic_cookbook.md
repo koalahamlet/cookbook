@@ -38,7 +38,7 @@ Dark soy sauce
 * [soup stock bags](https://www.amazon.com/Dried-Seafood-Anchovy-Dashi-Korea/dp/B07ZRPP3WX/ref=asc_df_B07ZRPP3WX/?tag=hyprod-20&linkCode=df0&hvadid=416728157253&hvpos=&hvnetw=g&hvrand=13718994789077652025&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031953&hvtargid=pla-887170875544&psc=1&tag=&ref=&adgrpid=93863646397&hvpone=&hvptwo=&hvadid=416728157253&hvpos=&hvnetw=g&hvrand=13718994789077652025&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031953&hvtargid=pla-887170875544)
   
 
-**["Chinese"]("Chinese".md)
+**[Chinese](Chinese.md)
   
 5 ingredients needed:
 

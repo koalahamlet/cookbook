@@ -8,6 +8,7 @@
 ## Equipment
 * A big pot
 
+### Directions:
 Place kombu in room temp water for 1 hour..
 
 Remove the kelp afterwords and reserve.

@@ -1,33 +1,24 @@
-TinakTak.md
 
+### Ingredients:
 1 pound lean ground beef
-
 2 tablespoons olive oil
-
 1 onion, diced
-
 1 cup halved cherry tomatoes
-
 1 cup (1-inch) sliced green onions
-
 ¼ cup light soy sauce, divided
-
 1 lemon, juiced, divided
-
 3 cloves garlic, minced
-
 1 cube beef bouillon (Optional)
-
 ½ teaspoon ground black pepper
-
 1 (8 ounce) can sliced water chestnuts, halved
-
 1 cup 1-inch cut green beans
-
 1 (13.5 ounce) can coconut milk
-
 1 hot red chile pepper (donne'sali), chopped (Optional)
-Directions
+
+
+### Equipment:
+
+### Directions:
 
 Step 1
 Place beef in a large skillet over medium heat; cook and stir until browned, about 8 minutes. Transfer to a plate lined with paper towels to drain excess grease.
