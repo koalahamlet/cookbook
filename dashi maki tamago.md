@@ -17,6 +17,7 @@ This dish is *all* about technique, as you'll note the scant ingredient list. Yo
 
   tl;dr add mentsuyu to eggs and then make an omelette. 
 
+### Directions:
 Mix the eggs together well without adding too many bubbles. Then strain through a medium mesh specifically to remove the large whitish clear clumps that cannot be beaten into incorporation.
 
 Once strained, add in the dashi, mentsuyu, and etc. Beat well to incorporate everything evently.

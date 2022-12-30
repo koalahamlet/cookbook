@@ -13,7 +13,7 @@ In that making a good mentsuyu is *THE SECRET* to good Japanese cooking, since t
 ## Equipment
   * a medium pot sized stainless pot
 
-
+### Directions:
 mix the soy, mirin, and sake together in a pot and bring to a medium simmer.(Not a rolling boil but more than just a few bubbles) Allow to boil like this for about 3-5 minutes to remove all the alcohol.
 After time is up, cut the heat and wait for the bubbles to settle down from a medium to a low simmer. Then drop in the katsuo bushi and allow it to infuse. 
 This infusion can take as long as you want, but in my experience 10 minutes is long enough. Leave it in too long and the mentsuyu can become bitter.

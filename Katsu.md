@@ -1,3 +1,5 @@
+### Ingredients:
+
 chicken thighs
 panko
 eggs
@@ -5,7 +7,9 @@ eggs
 
 ^^ main recipe
 
-  
+### Equipment:
+
+### Directions:
 
 Katsu sauce
 

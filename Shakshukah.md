@@ -23,7 +23,7 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 - Cheese(preferably something mild )
 - optional: additional veggies! e.g. mushrooms, zucchini
 
-
+### Directions:
 Dice your onions and and sweat them in some oil or butter. After they begin to release their moisture, add in any extra chopped vegetables you have and then douse everything in your pile of spices. 
 
 Allow this to mingle in the pan on medium heat for a few minutes so that the aromatic spices are toasted. 

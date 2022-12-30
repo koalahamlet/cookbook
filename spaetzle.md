@@ -32,8 +32,6 @@ Add spätzle, cook until everything is incorporated, turn heat off and add:
 Grate Parmesan to taste directly on top of the spätzle
 2 Tbsp water
 
-### Ingredients:
-
 ### Equipment:
 
 ### Directions:

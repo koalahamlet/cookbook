@@ -21,7 +21,6 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 * Cheese
 
 ## Equipment
-
 * A large pot
 
 ### Directions:

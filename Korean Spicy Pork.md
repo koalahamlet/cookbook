@@ -1,5 +1,6 @@
 # Korean Spicy Pork
 
+### Ingredients:
 
 2 tbsp korean pepper paste
 
@@ -14,3 +15,7 @@
 pepper. 
 
 Marinate pork for one hour in this sauce. Grill till done and serve with rice.
+
+### Equipment:
+
+### Directions:

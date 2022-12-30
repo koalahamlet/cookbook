@@ -8,6 +8,7 @@
 * a baking sheet
 -----------------------------------
 
+### Directions:
 Preheat your oven to 350 F. 
 
 Take your quantity of peanuts and spread them out evenly on a baking sheet. 

@@ -1,7 +1,8 @@
 # Oyakodon
 
-To attempt to make oyakodon is to come closer to understanding the difference of food quality standards between countries. One of the keys to a good oyakodon is having a still runny white and yolk. This should make one raise their eyebrows knowing
+To attempt to make oyakodon is to come closer to understanding the difference of food quality standards between countries. One of the keys to a good oyakodon is having a still runny white and yolk. This should make one raise their eyebrows knowing that one country can safely do that while another cannot. 
 
+### Ingredients:
   
 https://www.justonecookbook.com/oyakodon/
 
@@ -15,6 +16,8 @@ https://www.justonecookbook.com/oyakodon/
 -   ▢ 1½ Tbsp [soy sauce](https://www.justonecookbook.com/soy-sauce/)  
 -   ▢ 1½ tsp sugar
 
+
+### Directions:
 1.  ▢ 2 servings cooked Japanese short-grain rice (1½ rice cooker cups (180 ml x 1.5 = 270 ml) yield roughly 2 donburi servings; see how to cook short-grain with a [rice cooker](https://www.justonecookbook.com/how-to-make-rice/), a [pot over the stove](https://www.justonecookbook.com/how-to-cook-rice/), an [Instant Pot](https://www.justonecookbook.com/instant-pot-rice/), or a [donabe](https://www.justonecookbook.com/how-to-cook-rice-in-donabe/))
     
 2.  ▢ 2 sprigs [mitsuba (Japanese parsley)](https://www.justonecookbook.com/mitsuba/) (or green onion/scallion)

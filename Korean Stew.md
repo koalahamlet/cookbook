@@ -10,6 +10,7 @@ This is one of the "kitchen sink" dishes. Anything leftover or extra you have in
 * Literally whatever you want
 
 
+### Directions:
 #### The sauce
 -   2 Tbsp [Korean chili flakes](http://amzn.to/1VDSS7F) (Gochugaru)
 -   2 Tbsp [rice wine](http://amzn.to/1RmH2O0) (mirin)

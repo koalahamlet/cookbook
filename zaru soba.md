@@ -11,6 +11,8 @@
 * A pot for boiling
 * A colander for draining. 
 
+
+### Directions:
 Boil Soba to desired softness. 
 
 Immediately rinse in cold water. Shake the soba till they're only lightly damp. 

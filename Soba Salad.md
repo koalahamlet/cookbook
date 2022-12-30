@@ -1,6 +1,10 @@
 https://www.justonecookbook.com/soba-salad/ 
 
+### Ingredients:
 
+### Equipment:
+
+### Directions:
 Boil soba till desired softness. 
 
 Toss with a light mixture of sesame oil, honey or agave syrup, and soy sauce. 

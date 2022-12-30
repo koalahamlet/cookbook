@@ -26,4 +26,5 @@ Note: any spice below can start out whole, as long as you then grind it by hand 
 -   1/4 teaspoon ground cloves
 
 
+### Directions:
 Take all of the aforementioned spices and mix in a bowl. Transfer mixed powder into jar and seal. 
