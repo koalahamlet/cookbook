@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
   "note-composer",
   "command-palette",
@@ -13,7 +14,6 @@
   "markdown-importer",
   "word-count",
   "audio-recorder",
-  "open-with-default-app",
   "file-recovery",
   "sync"
 ]

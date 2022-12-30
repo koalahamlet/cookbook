@@ -57,7 +57,8 @@ Dark soy sauce
 * soy sauce
 * garlic
 
-[Tinaktak](https://www.evernote.com/shard/s233/nl/29093732/54137259-d5ac-98e6-a1e3-363a227e47dd?title=tinaktak)
+[Tinaktak](TinakTak.md)
+https://www.evernote.com/shard/s233/nl/29093732/54137259-d5ac-98e6-a1e3-363a227e47dd?title=tinaktak
 [Fina'Denne](https://www.evernote.com/shard/s233/nl/29093732/871c1a25-cd4c-c6b0-db52-7e136b6ee1b8?title=Fina'Denne)
 [Gollai Hagun](https://www.evernote.com/shard/s233/nl/29093732/fdddbed6-e1dc-20e0-c851-c526f1963f15?title=Gollai%20Hagun)
 
