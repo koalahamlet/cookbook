@@ -8,16 +8,14 @@
 - thai basil
 - Oyster sauce
 
-[[Thai peanut sauce]]
+[Thai peanut sauce](thai_peanut_sauce.md)
 
-[[Toasted Rice Powder]]
+[Toasted Rice Powder](toasted_rice_powder.md)
 
-[[Papaya salad]]*
+[[Papaya salad](papaya_salad.md)
 
-[[Larb]] **
+[Larb](larb.md) **
 
-Thai eggplant **
+[Thai eggplant](thai_eggplant.md) **
 
-[[thai stir fry]]  **
-
-[Thai Peanut sauce](obsidian://open?vault=Obsidian%20Vault&file=Thai%20peanut%20sauce) **
+[thai stir fry](thai_stir_fry.md)

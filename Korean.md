@@ -1,16 +1,15 @@
-[Soy Sauce pickles](https://www.evernote.com/shard/s233/nl/29093732/d89517f9-9094-bc5d-f699-d6e2d50459ac?title=Soy%20Sauce%20pickles) *
+[Soy Sauce pickles](soy_sauce_pickles.md) *
 
-[[Soy Sauce Pickles]]
-Korean stew *
+[Korean stew](Korean%20Stew.md)
 
-soon dooboo *
+[Soon Dooboo](soondooboo.md) *
 
-soldier stew *
+[soldier stew](soldier_stew.md)
 
-[Korean Spicy pork](https://www.evernote.com/shard/s233/nl/29093732/a5d2a027-e09b-aed5-1e4a-dd30d6d50178?title=Korean%20Spicy%20pork)
-[[Korean Spicy Pork]]
-green onion salad *
+[Korean Spicy pork](Korean%20Spicy%20Pork.md)
 
-ttoekboki *
+[green onion salad](green_onion_salad.md)
 
-black bean noodle *
+[ttoekbokki](ttoekbokki.md)
+
+[black bean noodle](black_bean_noodles.md)

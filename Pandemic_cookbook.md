@@ -70,6 +70,7 @@ Dark soy sauce
 * fish sauce
 * chilis
 
+[Vietnamese Pizza(Banh Trang Nuong)](Vietnamese%20pizza.md)
 
 **Other recipes
 
@@ -87,7 +88,7 @@ Maghreb:
 [Shakshukah](Shakshukah.md)
 [Ras el Hanout](Ras_el_Hanout.md)
 5 dips! *https://photos.google.com/u/1/search/food/photo/AF1QipO1PRZVThAphtitRqPLwSuxmkPPClqcAX1MtQud
-Rice pilaf *
-Aveglemono *
+[Rice pilaf](Rice%20Pilaf.md)
+[Aveglemono](aveglemono.md)
 
 [Chicken Adobo](chicken_adobo.md) * 

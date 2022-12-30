@@ -7,24 +7,24 @@ mirin
 sake
   
 
-[[Mentsuyu]]
+[Mentsuyu](mentsuyu.md)
 
-[[Dashi]]
+[Dashi](Dashi.md)
 
-[[Miso Soup]]
+[Miso Soup](miso_soup.md)
 
-[[dashi maki tamago]]
+[dashi maki tamago](dashi%20maki%20tamago.md)
 
-[[Japanese curry]]
+[Japanese curry](Japanese%20curry.md)
 
-[[Katsu]]
+[Katsu](Katsu.md)
 
-[[zaru soba]]
+[zaru soba](zaru%20soba.md)
 
-[[Soba Salad]]
+[Soba Salad](Soba%20Salad.md)
 
-[[Nishin Soba]]
+[Nishin Soba](Nishin%20Soba.md)
 
-[[Oyakodon]]
+[Oyakodon](Oyakodon.md)
 
-soy ramen *
+[Soy Ramen](soy_ramen.md)
