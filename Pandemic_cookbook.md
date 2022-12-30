@@ -90,4 +90,4 @@ Maghreb:
 Rice pilaf *
 Aveglemono *
 
-[Chicken Adobo](https://www.evernote.com/shard/s233/nl/29093732/34b55ff4-213f-3fe6-8d49-b4298e002867?title=Chicken%20Adobo) * 
+[Chicken Adobo](chicken_adobo.md) * 
