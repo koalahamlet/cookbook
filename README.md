@@ -1,7 +1,6 @@
 # cookbook
 
-Begin here!
-**[Begin here!](Pandemic cookbook.md) 
+[Begin here](Pandemic_cookbook.md)!
 
 A log of recipes and observations gained over 2 years of fanatic kitchen occupation.
 
