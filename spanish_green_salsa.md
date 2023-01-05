@@ -15,8 +15,7 @@ Version 1 (Mine)
 Version 2(cheeseboard)
 1. 3 bunches cilantro with stems (washed)
 2. 1 bunch flat leaf parsley
-3. 5-6 serrano peppers ( with seeds)
-4. 1-2 jalapeño peppers (with seeds)
+3. 1-2 serrano peppers (with seeds)
 5. 3-4 cloves garlic
 6. 2 teaspoons rice vinegar
 7. 3 tablespoons dijon mustard
