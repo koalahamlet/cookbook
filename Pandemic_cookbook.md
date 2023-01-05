@@ -1,11 +1,11 @@
-#### A brief introduction
+### A brief introduction
 It is the aim of this cookbook to encourage chefs to try making recipes that may seem daunting at first. I'm attempting to do this by listing only 5 ingredients per a particular cuisine. I've curated these ingredients to try and give the chef a good foundation for the dominant flavors in a particular cuisine. Even if you don't end up using them in a particular dish, having them in your pantry/fridge will give you a great starting point for making a dish that is at least derivative of those flavors. 
 
 A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for any modern day chef. Given that we are a sufficiently globalized population at this point and since it is available in all major grocery stores, I shall not consider it a "special" ingredient.
   
-#### [Thai](Thai.md) 
+### [Thai](Thai.md) 
 
-5 ingredients needed:
+5 basic ingredients:
 - fish sauce
 - tamarind paste
 - lime
@@ -13,9 +13,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 - Oyster sauce
 
   
-#### [Japanese](Japanese.md)
+### [Japanese](Japanese.md)
 
-5 ingredients needed:
+5 basic ingredients:
 * Fish flakes(katsuo bushi)
 * Kombu
 * Miso(Red or "Aka" miso)
@@ -23,9 +23,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 * sake
 
 
-####[Korean](Korean.md)
+### [Korean](Korean.md)
 
-5 ingredients needed:
+5 basic ingredients:
 * sesame oil
 * korean miso
 * pepper paste
@@ -33,9 +33,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 * [soup stock bags](https://www.amazon.com/Dried-Seafood-Anchovy-Dashi-Korea/dp/B07ZRPP3WX/ref=asc_df_B07ZRPP3WX/?tag=hyprod-20&linkCode=df0&hvadid=416728157253&hvpos=&hvnetw=g&hvrand=13718994789077652025&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031953&hvtargid=pla-887170875544&psc=1&tag=&ref=&adgrpid=93863646397&hvpone=&hvptwo=&hvadid=416728157253&hvpos=&hvnetw=g&hvrand=13718994789077652025&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031953&hvtargid=pla-887170875544)
   
 
-#### [Chinese](Chinese.md)
+### [Chinese](Chinese.md)
   
-5 ingredients needed:
+5 basic ingredients:
 * white pepper
 * corn starch
 * shaoxing wine
@@ -43,9 +43,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 * peanuts
 
 
-#### Guam
+### Guam
 
-5 ingredients needed:
+5 basic ingredients:
 * coconut milk
 * lemon
 * turmeric
@@ -59,9 +59,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 [Gollai Hagun](gollai_hagun.md)
 
 
-#### Vietnamese
+### Vietnamese
 
-5 ingredients needed:
+5 basic ingredients:
 * rice paper
 * rice noodles
 * Rau Ram(sub thai basil if you can't find Rau Ram)
@@ -70,7 +70,7 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 
 [Vietnamese Pizza(Banh Trang Nuong)](Vietnamese%20pizza.md)
 
-#### Other recipes
+### Other recipes
 
 Latin:
 [Elote Tacos](elote_tacos.md) 
