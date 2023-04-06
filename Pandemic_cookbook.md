@@ -72,6 +72,9 @@ A note on Soy Sauce: I had to eliminate soy sauce as a non-normal ingredient for
 
 ### Other recipes
 
+Fusion:
+[Garlic Furikake Potatoes](https://backporchpaleo.com/2019/10/17/furikake-garlic-roasted-potatoes/)
+
 Latin:
 [Elote Tacos](elote_tacos.md) 
 
