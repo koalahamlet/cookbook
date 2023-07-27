@@ -10,3 +10,5 @@
 [Egg flower soup](egg_flower_soup.md) *
 
 [Yunnan Style Beef](yunnan_mint_beef.md) *
+
+[Spicy Sesame/Peanut Noodles](sesame_peanut_noodles.md) *

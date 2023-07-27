@@ -12,7 +12,7 @@
 
 [Toasted Rice Powder](toasted_rice_powder.md)
 
-[[Papaya salad](papaya_salad.md)
+[Papaya salad](papaya_salad.md)
 
 [Larb](larb.md) **
 
