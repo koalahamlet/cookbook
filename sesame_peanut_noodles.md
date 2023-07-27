@@ -1,16 +1,27 @@
 INGREDIENTS
 1 pound Chinese egg noodles (1/8-inch-thick), frozen or (preferably) fresh. (you can sub whatever noodles you want realistically, I just like egg noodles.)
+
 2 tablespoons sesame oil, plus a splash
+
 3 ½ tablespoons soy sauce
+
 2 tablespoons Chinese rice vinegar
+
 2 tablespoons Chinese sesame paste
+
 1 tablespoon smooth peanut butter
+
 1 tablespoon sugar or equivalent of agave nectar. 
+
 1 tablespoon finely grated ginger
+
 2 teaspoons minced garlic
+
 2 teaspoons chili-garlic paste, or chili oil of your choosing. 
  Half a cucumber, peeled, seeded, and cut into 1/8-inch by 1/8-inch by 2-inch sticks
+
 ¼ cup chopped roasted peanuts
+
 cilantro(optional)
 
 PREPARATION
